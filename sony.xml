@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="github" fetch="https://github.com/" />
+
+    <project path="device/sony/pdx203" name="Johnkarazou/android_device_sony_pdx203" remote="github" revision="lineage-20" />
+    <project path="device/sony/sm8250-common" name="Johnkarazou/android_device_sony_sm8250-common" remote="github" revision="lineage-20" />
+    <project path="hardware/sony" name="Johnkarazou/android_hardware_sony" remote="github" revision="lineage-20" />
+    <project path="kernel/sony/sm8250" name="Johnkarazou/lineage_kernel_sony_sm8250" remote="github" revision="lineage-20" />
+</manifest>
